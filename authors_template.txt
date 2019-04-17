@@ -1,0 +1,2 @@
+Authors: S. Bradley Cenko (NASA GSFC), Michael W. Coughlin (Caltech),  Tomás Ahumada (UMD),  Matt Hankins (Caltech), Eric C. Bellm (UW), Leo P. Singer (NASA GSFC), Shaon Ghosh (UWM), Mansi M. Kasliwal (Caltech), Igor Andreoni (Caltech), Shreya Anand (Caltech), V. Zach Golkhou (UW) on behalf of the ZTF and GROWTH collaborations and the KPED team
+
