@@ -3,7 +3,7 @@ This repo is a guide to a ZTF GCN construction
 
 
 # ZTF useful links + QA
-| Qustion  | Answer |
+| Question  | Answer |
 | ------------- | ------------- |
 | ztfquery documentation  | https://github.com/MickaelRigault/ztfquery  |
 | ZTF table content  | https://irsa.ipac.caltech.edu/onlinehelp/ztf/overview.html  |
