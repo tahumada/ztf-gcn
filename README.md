@@ -1,7 +1,10 @@
 # ztf-gcn
 This repo is a guide to a ZTF GCN construction
 
+
+# ZTF useful links + QA
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ztfquery documentation  | Content Cell  |
+| ZTF table content  | Content Cell  |
+| Alert content  | Content Cell  |
